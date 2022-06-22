@@ -20,6 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ### 🚀 Link 
 Para acessar ao site do projeto clique no link abaixo:
 - [Link do Game](https://m-abdias.github.io/Pokemon-Game/)
+- [Link do Surge](https://free-trouble.surge.sh/)
 
 
 ### 🔖 Layout do Desafio implementado
