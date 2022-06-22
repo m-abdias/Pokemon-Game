@@ -16,7 +16,7 @@ let pokePosRefMax = 80
 let pikachuPosRefMax = 40
 
 // Condição para deixar o jogo responsivo
-if (window.innerWidth > 390) {
+if (window.innerWidth > 768) {
   pokePosRefMax = 120
   pikachuPosRefMax = 80
 }
