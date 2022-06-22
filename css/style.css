@@ -144,7 +144,7 @@
 
 /* === CSS Responsivo ============================== */
 
-@media (max-width: 390px) {
+@media (max-width: 768px) {
   .game-over {
     margin-top: 150px;
     position: absolute;
